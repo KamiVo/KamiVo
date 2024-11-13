@@ -55,7 +55,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kamivo&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamivo&theme=radical" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamivo&theme=radical" alt="GitHub Streak" width="425" />
 </p>
 
 <p align="center">
