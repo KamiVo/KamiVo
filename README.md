@@ -41,7 +41,7 @@
 
 ### 🚀 Projects
 - **AI Project**: Not jet.
-- **Algorithm Practice**: Regularly solving complex problems on [LeetCode](https://leetcode.com/u/vohaiduy2017/).
+- **Algorithm Practice**: Regularly solving complex problems on [LeetCode](https://leetcode.com/u/vohaiduy2017/) and [CodeForces](https://codeforces.com/profile/vohaiduy2017).
 
 ---
 
