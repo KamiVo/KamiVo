@@ -46,7 +46,6 @@
 ---
 
 ### 🏆 Achievements
-- 🥇 **LeetCode Competitions**: Ranked in the top 5% for multiple contests.
 - 🏅 **Certifications**: Completed certifications in **Basic C++ Skills** on [CodeLearn](https://codelearn.io/home).
 
 ---
