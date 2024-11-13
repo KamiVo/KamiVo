@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kami</h1>
+<h3 align="center">AI Developer | Passionate Problem Solver from Vietnam</h3>
 
-<!--
-**KamiVo/KamiVo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZwY3Zqb3o3YmY1anRoejhuM3p0emJ6dGszb3ByczMxb2UzM3RyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkW0maGDN1eSc/giphy.gif">
 
-Here are some ideas to get you started:
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=kamivo&label=Profile%20views&color=ff051e&style=flat" alt="Profile Views" /> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+- 🌱 Currently studying: **Vietnam-Korea University of Information and Communication Technology**
+- 🎓 Background: **Computer Science**
+- 💬 Ask me about **Python, Java, C++, AI, and Algorithms**
+- 📫 Reach me at **vohaiduy2017@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+<a href="https://leetcode.com/u/vohaiduy2017/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left"> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a> 
+</p>
+
+---
+
+### 🚀 Projects
+- **AI Project**: Not jet.
+- **Algorithm Practice**: Regularly solving complex problems on [LeetCode](https://leetcode.com/u/vohaiduy2017/).
+
+---
+
+### 🏆 Achievements
+- 🥇 **LeetCode Competitions**: Ranked in the top 5% for multiple contests.
+- 🏅 **Certifications**: Completed certifications in **Basic C++ Skills** on [CodeLearn](https://codelearn.io/home).
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamivo&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamivo&theme=radical" alt="GitHub Streak" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamivo&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="400" />
+</p>
