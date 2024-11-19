@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kami</h1>
 <h3 align="center">AI Developer | Passionate Problem Solver from Vietnam</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzExbXVrMDF3eDAxMXR6ZWlub3QyN2tuajBoa2prempzazV0cDhhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aaVPCB4v81oTS/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/lVVOyZ04ouE.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kamivo&label=Profile%20views&abbreviated=true&color=ff051e&style=plastic" alt="Profile Views" /> 
