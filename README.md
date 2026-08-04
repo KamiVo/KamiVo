@@ -17,13 +17,6 @@
 
 ---
 
-### 🌐 Connect with Me
-<a href="https://leetcode.com/u/vohaiduy2017/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-</a>
-
----
-
 ### 🛠️ Languages and Tools
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
