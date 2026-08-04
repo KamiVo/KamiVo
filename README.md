@@ -45,11 +45,6 @@
 
 ---
 
-### 🏆 Achievements
-- 🏅 **Certifications**: Completed certifications in **Basic C++ Skills** on [CodeLearn](https://codelearn.io/home).
-
----
-
 <details>
 <summary>📈 Stats</summary>
 <br>
