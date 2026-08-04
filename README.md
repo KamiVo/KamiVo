@@ -10,9 +10,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently studying: **Vietnam-Korea University of Information and Communication Technology**
-- 🎓 Background: **Computer Science**
-- 💬 Ask me about **Python, Java, C++, AI, and Algorithms**
+- 🌱 Currently studying: **Saarland University**
 - 📫 Reach me at **vohaiduy2017@gmail.com**
 
 ---
