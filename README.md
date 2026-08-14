@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Chewy&size=25&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=650&height=90&lines=KamiVo;Cyber+Security+Enthusiast;AI+Developer+%26+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Chewy&size=25&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=650&height=90&lines=KamiVo;Cyber+Security+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cyber%20Security-0f172a?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cyber Security Badge" />
   <img src="https://img.shields.io/badge/Interests-AI%20%26%20Software%20Development-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Badge" />
-  <img src="https://img.shields.io/badge/Location-Saarland%20University-1f2937?style=for-the-badge&logo=university&logoColor=white" alt="University Badge" />
+  <img src="https://img.shields.io/badge/Studying-Universität%20des%20Saarlandes-1f2937?style=for-the-badge&logo=university&logoColor=white" alt="University Badge" />
 </p>
 
 <p align="center">
@@ -25,11 +25,11 @@
 <table>
   <tr>
     <td width="120" align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Saarland_University_logo.svg" alt="Saarland University" width="90" />
+      <img src="https://github.com/KamiVo.png" alt="KamiVo Avatar" width="90" style="border-radius:50;" />
     </td>
     <td>
       <ul>
-        <li>🎓 Currently studying at <strong>Saarland University</strong></li>
+        <li>🎓 Currently studying at <strong>Universität des Saarlandes</strong></li>
         <li>🛡️ Interested in <strong>Cyber Security</strong></li>
         <li>🤖 Also exploring <strong>AI</strong> and <strong>software development</strong></li>
         <li>💡 Passionate about solving problems, learning new tech, and building useful things</li>
@@ -52,12 +52,6 @@
   </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="40" height="40" />
-  </a>
-  <a href="https://www.kali.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-plain.svg" alt="Kali Linux" width="40" height="40" />
   </a>
 </p>
 
