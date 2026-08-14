@@ -1,16 +1,23 @@
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chewy&size=25&duration=2000&pause=1000&color=F70000&multiline=true&width=510&height=70&lines=KamiVo;AI+Developer+%7C+Coding+Problem+Solver+from+Vietnam" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chewy&size=25&duration=2000&pause=1000&color=F70000&multiline=true&width=510&height=70&lines=KamiVo;Cyber+Security+Enthusiast;AI+Developer" alt="Typing SVG" /></a>
 <br/>
 
 <a href="https://github.com/KamiVo">
-    <img src="https://github-stats-alpha.vercel.app/api?username=KamiVo&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=KamiVo&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
 </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently studying: **Saarland University**
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Saarland_University_logo.svg" alt="Saarland University" width="90" />
+</p>
+
+- 🎓 Currently studying at **Saarland University**
+- 🛡️ Interested in **Cyber Security**
+- 🤖 Also exploring **AI / software development**
+- 💡 Passionate about solving problems, learning new tech, and building useful things
 - 📫 Reach me at **vohaiduy2017@gmail.com**
 
 ---
@@ -31,7 +38,8 @@
 ---
 
 ### 🚀 Projects
-- **AI Project**: Not jet.
+- **Cyber Security**: Currently learning and building toward security-focused projects.
+- **AI Project**: In progress.
 - **Algorithm Practice**: Regularly solving complex problems on [LeetCode](https://leetcode.com/u/vohaiduy2017/) and [CodeForces](https://codeforces.com/profile/vohaiduy2017).
 
 ---
